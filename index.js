@@ -1,4 +1,4 @@
-var attributes = require('attributes');
+var attributes = require('anthonyshort-attributes');
 
 module.exports = function(node, fn) {
   var attrs = attributes(node);
